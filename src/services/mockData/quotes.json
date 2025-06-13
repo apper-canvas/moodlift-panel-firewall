@@ -1,0 +1,182 @@
+[
+  {
+    "id": "happy_1",
+    "text": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama",
+    "mood": "happy"
+  },
+  {
+    "id": "happy_2",
+    "text": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama",
+    "mood": "happy"
+  },
+  {
+    "id": "happy_3",
+    "text": "Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.",
+    "author": "Ralph Marston",
+    "mood": "happy"
+  },
+  {
+    "id": "happy_4",
+    "text": "Count your age by friends, not years. Count your life by smiles, not tears.",
+    "author": "John Lennon",
+    "mood": "happy"
+  },
+  {
+    "id": "happy_5",
+    "text": "The best way to cheer yourself is to try to cheer someone else up.",
+    "author": "Mark Twain",
+    "mood": "happy"
+  },
+  {
+    "id": "sad_1",
+    "text": "The wound is the place where the Light enters you.",
+    "author": "Rumi",
+    "mood": "sad"
+  },
+  {
+    "id": "sad_2",
+    "text": "Sometimes you need to sit lonely on the floor in a quiet room in order to hear your own voice and not let it get drowned in the noise of others.",
+    "author": "Charlotte Eriksson",
+    "mood": "sad"
+  },
+  {
+    "id": "sad_3",
+    "text": "You are allowed to feel messed up and inside out. It doesn't mean you're defective—it just means you're human.",
+    "author": "David Mitchell",
+    "mood": "sad"
+  },
+  {
+    "id": "sad_4",
+    "text": "What brings us to tears, will lead us to grace. Our pain is never wasted.",
+    "author": "Bob Goff",
+    "mood": "sad"
+  },
+  {
+    "id": "sad_5",
+    "text": "Rock bottom became the solid foundation on which I rebuilt my life.",
+    "author": "J.K. Rowling",
+    "mood": "sad"
+  },
+  {
+    "id": "love_1",
+    "text": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+    "author": "Lao Tzu",
+    "mood": "love"
+  },
+  {
+    "id": "love_2",
+    "text": "Love is not about how many days, months, or years you have been together. Love is about how much you love each other every single day.",
+    "author": "Unknown",
+    "mood": "love"
+  },
+  {
+    "id": "love_3",
+    "text": "The best love is the kind that awakens the soul and makes us reach for more.",
+    "author": "Nicholas Sparks",
+    "mood": "love"
+  },
+  {
+    "id": "love_4",
+    "text": "Love yourself first and everything else falls into line.",
+    "author": "Lucille Ball",
+    "mood": "love"
+  },
+  {
+    "id": "love_5",
+    "text": "Where there is love there is life.",
+    "author": "Mahatma Gandhi",
+    "mood": "love"
+  },
+  {
+    "id": "angry_1",
+    "text": "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured.",
+    "author": "Mark Twain",
+    "mood": "angry"
+  },
+  {
+    "id": "angry_2",
+    "text": "For every minute you remain angry, you give up sixty seconds of peace of mind.",
+    "author": "Ralph Waldo Emerson",
+    "mood": "angry"
+  },
+  {
+    "id": "angry_3",
+    "text": "Holding on to anger is like grasping a hot coal with the intent of throwing it at another; you are the one who gets burned.",
+    "author": "Buddha",
+    "mood": "angry"
+  },
+  {
+    "id": "angry_4",
+    "text": "The best fighter is never angry.",
+    "author": "Lao Tzu",
+    "mood": "angry"
+  },
+  {
+    "id": "angry_5",
+    "text": "Speak when you are angry and you will make the best speech you will ever regret.",
+    "author": "Ambrose Bierce",
+    "mood": "angry"
+  },
+  {
+    "id": "cool_1",
+    "text": "Cool minds. Brave hearts. True friendship. This is what we stand for.",
+    "author": "Unknown",
+    "mood": "cool"
+  },
+  {
+    "id": "cool_2",
+    "text": "Being cool is being your own self, not doing something that someone else is telling you to do.",
+    "author": "Vanessa Hudgens",
+    "mood": "cool"
+  },
+  {
+    "id": "cool_3",
+    "text": "Stay cool, calm and keep moving forward.",
+    "author": "Unknown",
+    "mood": "cool"
+  },
+  {
+    "id": "cool_4",
+    "text": "The coolest thing about the series is that we stay very true to the books.",
+    "author": "Rupert Grint",
+    "mood": "cool"
+  },
+  {
+    "id": "cool_5",
+    "text": "It's cool to be different and just be who you are and shock people in a good way.",
+    "author": "Brendon Urie",
+    "mood": "cool"
+  },
+  {
+    "id": "calm_1",
+    "text": "In the midst of winter, I found there was, within me, an invincible summer.",
+    "author": "Albert Camus",
+    "mood": "calm"
+  },
+  {
+    "id": "calm_2",
+    "text": "Peace comes from within. Do not seek it without.",
+    "author": "Buddha",
+    "mood": "calm"
+  },
+  {
+    "id": "calm_3",
+    "text": "Calmness is the cradle of power.",
+    "author": "Josiah Gilbert Holland",
+    "mood": "calm"
+  },
+  {
+    "id": "calm_4",
+    "text": "The nearer a man comes to a calm mind, the closer he is to strength.",
+    "author": "Marcus Aurelius",
+    "mood": "calm"
+  },
+  {
+    "id": "calm_5",
+    "text": "A calm mind brings inner strength and self-confidence, so that's very important for good health.",
+    "author": "Dalai Lama",
+    "mood": "calm"
+  }
+]

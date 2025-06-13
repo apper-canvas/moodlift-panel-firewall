@@ -1,0 +1,62 @@
+[
+  {
+    "mood": "happy",
+    "emoji": "😊",
+    "label": "Happy",
+    "backgroundColor": "#FFE5B4",
+    "cardColor": "#FFF8DC",
+    "textColor": "#8B4513",
+    "accentColor": "#FF8C00",
+    "fontFamily": "Quicksand"
+  },
+  {
+    "mood": "sad",
+    "emoji": "😢",
+    "label": "Sad",
+    "backgroundColor": "#E6F3FF",
+    "cardColor": "#F0F8FF",
+    "textColor": "#4682B4",
+    "accentColor": "#87CEEB",
+    "fontFamily": "Open Sans"
+  },
+  {
+    "mood": "love",
+    "emoji": "😍",
+    "label": "Love",
+    "backgroundColor": "#FFE4E6",
+    "cardColor": "#FFF0F1",
+    "textColor": "#DC143C",
+    "accentColor": "#FF69B4",
+    "fontFamily": "Quicksand"
+  },
+  {
+    "mood": "angry",
+    "emoji": "😤",
+    "label": "Angry",
+    "backgroundColor": "#FFE6E6",
+    "cardColor": "#FFF5F5",
+    "textColor": "#B22222",
+    "accentColor": "#FF4500",
+    "fontFamily": "Open Sans"
+  },
+  {
+    "mood": "cool",
+    "emoji": "😎",
+    "label": "Cool",
+    "backgroundColor": "#E0F2E7",
+    "cardColor": "#F0FFF0",
+    "textColor": "#2E8B57",
+    "accentColor": "#00CED1",
+    "fontFamily": "Quicksand"
+  },
+  {
+    "mood": "calm",
+    "emoji": "😌",
+    "label": "Calm",
+    "backgroundColor": "#F0E6FF",
+    "cardColor": "#F8F0FF",
+    "textColor": "#9370DB",
+    "accentColor": "#DDA0DD",
+    "fontFamily": "Open Sans"
+  }
+]

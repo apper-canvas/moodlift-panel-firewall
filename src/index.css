@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import react-toastify CSS */
+@import 'react-toastify/dist/ReactToastify.css';
+
+/* Ensure scrollbars are visible */
+body {
+  overflow-y: auto;
+  overflow-x: hidden;
+  margin: 0;
+  min-height: 100vh;
+  font-family: 'Open Sans', ui-sans-serif, system-ui;
+}
+
+/* Prevent horizontal overflow */
+* {
+  max-width: 100%;
+}
+
+/* Main content areas must allow scroll */
+.main-content {
+  overflow-y: auto;
+  height: 100vh;
+}
+
+@layer utilities {
+  /* Only use scrollbar-hide for specific UI elements, never main content */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Custom gradient backgrounds for mood themes */
+.mood-gradient-happy {
+  background: linear-gradient(135deg, #FFE5B4 0%, #FFF8DC 100%);
+}
+
+.mood-gradient-sad {
+  background: linear-gradient(135deg, #E6F3FF 0%, #F0F8FF 100%);
+}
+
+.mood-gradient-love {
+  background: linear-gradient(135deg, #FFE4E6 0%, #FFF0F1 100%);
+}
+
+.mood-gradient-angry {
+  background: linear-gradient(135deg, #FFE6E6 0%, #FFF5F5 100%);
+}
+
+.mood-gradient-cool {
+  background: linear-gradient(135deg, #E0F2E7 0%, #F0FFF0 100%);
+}
+
+.mood-gradient-calm {
+  background: linear-gradient(135deg, #F0E6FF 0%, #F8F0FF 100%);
+}
+
+/* Text shadow for mood-specific quotes */
+.quote-text-shadow-happy {
+  text-shadow: 0 2px 4px rgba(139, 69, 19, 0.1);
+}
+
+.quote-text-shadow-sad {
+  text-shadow: 0 2px 4px rgba(70, 130, 180, 0.1);
+}
+
+.quote-text-shadow-love {
+  text-shadow: 0 2px 4px rgba(220, 20, 60, 0.1);
+}
+
+.quote-text-shadow-angry {
+  text-shadow: 0 2px 4px rgba(178, 34, 34, 0.1);
+}
+
+.quote-text-shadow-cool {
+  text-shadow: 0 2px 4px rgba(46, 139, 87, 0.1);
+}
+
+.quote-text-shadow-calm {
+  text-shadow: 0 2px 4px rgba(147, 112, 219, 0.1);
+}
